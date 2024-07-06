@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
 <h1 align="center">Hi 👋, I'm OM GUPTA</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
+<img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/6vnfOR5wOoQTY-TWbk5gsmPMIDUwvZOgyNcluY3r-xA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtcHJvZ3JhbW1l/ci1ndXktY29kaW5n/LTc5MGEwYnM4ZTh0/aHBpc2cuZ2lm.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omgupta09&label=Profile%20views&color=0e75b6&style=flat" alt="omgupta09" /> </p>
