@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT**
 
-- 💬 Ask me about **C,Java,Python**
+- 💬 Ask me about **Java, Spring Framework**
 
 - 📫 How to reach me **work.omgupta09@gmail.com**
 
