@@ -70,8 +70,11 @@
 
 | Project | Tech Stack | Description |
 |---|---|---|
-| 📝 Quiz Application | Spring Boot, Spring Security, MySQL | Secure quiz platform with Authentication |
-| 💳 Point of Sale System | Java, Spring Boot | POS system for retail billing |
+| 🏦 Digital NextBank Platform | Spring Boot, Spring Security, MySQL, JWT, Docker, Redis, Kafka, Eureka | Enterprise-grade banking platform built using a microservices architecture with secure JWT authentication, role-based access control, Redis caching, Kafka-based event-driven communication, and service discovery. |
+| 🔗 Distributed URL Shortening Service | Spring Boot, MySQL, Redis, Kafka, Docker | Scalable URL shortener supporting custom aliases, URL expiration, QR code generation, click analytics, and user-specific URL management with Redis caching and Kafka-powered analytics. |
+| 🚦 Distributed API Rate Limiter | Spring Boot, Redis, Docker | Implemented a high-performance distributed rate limiter using the Token Bucket algorithm with Redis and Lua scripting for atomic operations across multiple instances. |
+| 📝 Quiz Application | Spring Boot, Spring Security, MySQL | Secure quiz platform with Authentication. |
+| 💳 Point of Sale System | Java, Spring Boot | POS system for retail billing. |
 | 🔐 FPGA Implementation of Lightweight Cryptography using RDETDFF | Verilog, Xilinx Vivado, FPGA | Designed and implemented a lightweight cryptographic architecture using an Extreme Low Power Reversible Dual Edge Triggered D Flip-Flop (RDETDFF) for reduced power consumption and improved hardware efficiency. |
 | 📡 Circular Microstrip Antenna Array (DRDO Internship) | MATLAB, Antenna Design | Designed and simulated a 2.4 GHz circular microstrip antenna array achieving improved gain and 360° coverage during my internship at DRDO. |
 
