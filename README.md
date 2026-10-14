@@ -9,7 +9,7 @@
 - 🚀 Currently building **production-ready Spring Boot applications**
 - 📚 Actively solving **Data Structures & Algorithms** problems
 - ⚙️ Learning **scalable backend architecture**
-- 🧠 Solved **300+ DSA problems** across LeetCode & Codeforces
+- 🧠 Solved **500+ DSA problems** across LeetCode & other platforms
 - 💬 Ask me about **Java, Spring Boot, Spring Security, Hibernate, JPA, REST APIs, SQL, MySQL, Docker**
 - 📫 Reach me at **work.omgupta09@gmail.com**
 - 🎯 Seeking **Backend Software Engineering** opportunities to build scalable real-world products
